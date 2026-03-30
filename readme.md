@@ -29,7 +29,7 @@
 
 ## LINUX
 
-**Best Kernals For Gaming**
+**Best Kernel For Gaming**
   - [CachyOS](https://cachyos.org/): Best for latency and overall FPS. I have over a year of experience with this Kernal and highly recommend it over anything else if you are looking for the best gaming compatibility and stability but also have a general understanding of Arch.
   - [Bazzite](https://bazzite.gg/): Best for FPS and ease of use. Has built a strong reputation for being the most like windows without the bloat and with all the scheduling optimizations you'd expect from a gaming focused Linux Kernal.
   - [EndeavorOS](https://endeavouros.com/): A bit more complicated of an Arch based Kernal but after months of driving, I've come to prefer it for both gaming and everyday productivity.
@@ -44,7 +44,7 @@
   - Using LinuxNext's guide you can learn how to get stretch res to work on any game using steam proton launch environmental variables. [Tutorial Here](https://www.youtube.com/watch?v=kKF_6OHXwzg&)
   
 ## Linux Steam Launch Environmental Variables
-  - `gamemoderun` Makes the scheduler activate performance mode while gaming, this varaible should always come first. Depending on your Kernal, you may need to install this. Go [here](https://github.com/feralinteractive/gamemode)
+  - `gamemoderun` Makes the scheduler activate performance mode while gaming, this varaible should always come first. Depending on your Kernel, you may need to install this. Go [here](https://github.com/feralinteractive/gamemode)
   - `game-performance` Same as gamemoderun but increase I/O priority as well. Preinstalled on CachyOS.
   - `PROTON_USE_NTSYNC=1` Makes proton use alternative syncing method for smoother experiences on Windows based games. Can wield a nice performance boost on CPU intensive games.
   - `PROTON_ENABLE_WAYLAND=1` Forces proton to run games under Wayland as a means to replace x11 and improve stability on Linux
