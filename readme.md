@@ -12,4 +12,5 @@ You can use this [tutorial](https://www.youtube.com/watch?v=xXpnCqXxwz8&) for ge
 **__RTSS (Rivatuner Statistics Server):__** Using this program, you can limit your FPS, 3 frames below your refresh rate and significantly improve your 1% lows. [DOWNLOAD](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/)
 
 **DEBLOAT**
+
 Using [Chris Titus' Windows Debloater](https://christitus.com/windows-tool/) you can customize and debloat windows to your like by a click of a few buttons.
