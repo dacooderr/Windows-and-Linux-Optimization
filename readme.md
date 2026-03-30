@@ -45,8 +45,9 @@
   
 ## Linux Steam Launch Environmental Variables
   - `gamemoderun` Makes the scheduler activate performance mode while gaming, this varaible should always come first. Depending on your Kernal, you may need to install this. Go [here](https://github.com/feralinteractive/gamemode)
+  - `PROTON_USE_NTSYNC=1` Makes proton use alternative syncing method for a smoother experiences on Windows based games. Can wield a nice performance boost on CPU intensive games.
+  - `PROTON_ENABLE_WAYLAND=1` Forces proton to run games under Wayland as a means to replace x11 and improve stability on Linux
   - `ENABLE_LAYER_MESA_ANTI_LAG=1` Enables anti-lag
   - `PROTON_FSR4_RDNA3_UPGRADE=1` Enables FSR4 for RDNA3 GPUs
-  - `PROTON_ENABLE_WAYLAND=1` Forces proton to run games under Wayland as a means to replace x11 and improve stability on Linux
   - `MANGOHUD=1` Adds performance metrics to check, must have it installed [here](https://github.com/flightlessmango/MangoHud)
   
