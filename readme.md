@@ -32,7 +32,7 @@
   - [EndeavorOS](https://endeavouros.com/): A bit more complicated of an Arch based Kernal but after months of driving, I've come to prefer it for both gaming and everyday productivity.
 
 ## Linux Steam Launch Environmental Variables
-  - `gamemoderun` Makes the scheduler activate performance mode while gaming, this varaible should always come first
+  - `gamemoderun` Makes the scheduler activate performance mode while gaming, this varaible should always come first. Depending on your Kernal, you may need to install this. Go [here](https://github.com/feralinteractive/gamemode)
   - `ENABLE_LAYER_MESA_ANTI_LAG=1` Enables anti-lag
   - `PROTON_FSR4_RDNA3_UPGRADE=1` Enables FSR4 for RDNA3 GPUs
   - `PROTON_ENABLE_WAYLAND=1` Forces proton to run games under Wayland as a means to replace x11 and improve stability on Linux
