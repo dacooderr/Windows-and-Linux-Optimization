@@ -28,3 +28,4 @@
 
 ## Steam Launch Options
   - `-threads x` Adjust the amount of threads the game uses. Replace with your thread count -1 or try half your thread count.
+  - `-high` Tells windows to run your game in High Priority mode.
