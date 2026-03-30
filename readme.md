@@ -32,6 +32,7 @@
   - [EndeavorOS](https://endeavouros.com/): A bit more complicated of an Arch based Kernal but after months of driving, I've come to prefer it for both gaming and everyday productivity.
 
 **UPDATING ON LINUX**
+  
   -The 3 Kernals I listed above have install/update package scripts preinstalled and it is easily done by using said script and going through the Y/n prompts.
     This includes chipset drivers. ex. GPU/CPU
 
