@@ -24,7 +24,7 @@
      - Open Windows Powershell in Administator and paste this in the console _irm christitus.com/win | iex_  and press enter. You can follow his tutorial [here](https://www.youtube.com/watch?v=yKydZFJRzMk&)
 
 ### Calypto's In-depth Latency Guide
-  • If you have the time, this very long and in-depth guide explains the science behind Latency, and how to improve it [here](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?tab=t.0)
+    If you have the time, this very long and in-depth guide explains the science behind Latency, and how to improve it [here](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?tab=t.0)
 
 
 ## LINUX
