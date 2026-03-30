@@ -31,6 +31,10 @@
   - [Bazzite](https://bazzite.gg/): Best for FPS and ease of use. Has built a strong reputation for being the most like windows without the bloat and with all the scheduling optimizations you'd expect from a gaming focused Linux Kernal.
   - [EndeavorOS](https://endeavouros.com/): A bit more complicated of an Arch based Kernal but after months of driving, I've come to prefer it for both gaming and everyday productivity.
 
+**UPDATING ON LINUX**
+  -The 3 Kernals I listed above have install/update package scripts preinstalled and it is easily done by using said script and going through the Y/n prompts.
+    This includes chipset drivers. ex. GPU/CPU
+
 ## Linux Steam Launch Environmental Variables
   - `gamemoderun` Makes the scheduler activate performance mode while gaming, this varaible should always come first. Depending on your Kernal, you may need to install this. Go [here](https://github.com/feralinteractive/gamemode)
   - `ENABLE_LAYER_MESA_ANTI_LAG=1` Enables anti-lag
