@@ -1,4 +1,4 @@
-# A Windows and Linux PC Optimizations Guide
+# A Windows and Linux PC Optimization Guide
 
 
 ## WINDOWS
