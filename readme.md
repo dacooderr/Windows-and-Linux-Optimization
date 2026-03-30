@@ -19,3 +19,6 @@
 
 
 ## LINUX
+
+**Best Kernals For Gaming**
+  - CachyOS: Best for latency and overall FPS [(https://cachyos.org/)]
