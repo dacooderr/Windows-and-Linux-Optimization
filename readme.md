@@ -27,4 +27,4 @@
 
 
 ## Steam Launch Options
-  - "#000000 -threads x"
+  - 
