@@ -13,4 +13,4 @@ You can use this [tutorial](https://www.youtube.com/watch?v=xXpnCqXxwz8&) for ge
 
 **DEBLOAT**
 
-Using [Chris Titus' Windows Debloater](https://christitus.com/windows-tool/) you can customize and debloat windows to your like by a click of a few buttons.
+Using [Chris Titus' Windows Debloater](https://christitus.com/windows-tool/) you can customize and debloat windows to your liking by a click of a few buttons.
