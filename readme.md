@@ -16,3 +16,6 @@ WINDOWS
   - Using [Chris Titus' Windows Debloater](https://christitus.com/windows-tool/) you can customize and debloat windows to your liking by a click of a few buttons.
 
      - Open Windows Powershell in Administator and paste this in the console _irm christitus.com/win | iex_  and press enter. You can follow his tutorial [here](https://www.youtube.com/watch?v=yKydZFJRzMk&)
+
+
+## Linux
