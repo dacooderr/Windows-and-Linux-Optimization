@@ -6,8 +6,8 @@
 ## Steam Launch Options
   - `-threads x` Adjust the amount of threads the game uses. Replace with your thread count -1 or try half your thread count. You can open Task Manager and check your thread count there.
   - `-high` Tells windows to run your game in High Priority mode.
-  - `-vulkan` Makes the game run under Vulkan rendering pipeline.
-  - `-dx11` Makes the game run under DX11 rendering pipeline.
+  - `-vulkan` Makes the game run under Vulkan rendering pipeline. (Using this with an AMD GPU, may wield much better FPS in most games.)
+  - `-dx11` Makes the game run under DX11 rendering pipeline. (Using this with an Nvidia GPU, may wield much better FPS in most games.)
 
 **<ins>Improve 1%/0.1% Lows and Input Latency</ins>**:
 
