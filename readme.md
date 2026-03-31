@@ -30,7 +30,7 @@
 ## LINUX
 
 **Best Kernel For Gaming**
-  - [CachyOS](https://cachyos.org/): Best for latency and overall FPS. I have over a year of experience with this Kernel and highly recommend it over anything else if you are looking for the best gaming compatibility and stability and you're willing to learn Arch.
+  - [CachyOS](https://cachyos.org/): Best for latency and overall FPS. I have over a year of experience with this Kernel and highly recommend it over anything else if you are looking for the best gaming compatibility and stability. Best introduction into Arch in my opinion.
   - [Bazzite](https://bazzite.gg/): Best for FPS and ease of use. Has built a strong reputation for being the most like windows without the bloat and with all the scheduling optimizations you'd expect from a gaming focused Linux Kernel.
   - [EndeavorOS](https://endeavouros.com/): A bit more complicated of an Arch based Kernel but after months of driving, I've come to prefer it for both gaming and everyday productivity.
 
