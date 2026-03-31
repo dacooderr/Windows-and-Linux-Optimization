@@ -58,4 +58,5 @@
 
 
   Credits: 
-  simcasting: made the CPU scheduling guide.
+  
+  simcasting  |  made the CPU scheduling guide.
