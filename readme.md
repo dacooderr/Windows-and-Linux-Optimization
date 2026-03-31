@@ -59,4 +59,4 @@
 
   Credits: 
   
-  simcasting  |  made the CPU scheduling guide.
+  [simcasting](https://www.youtube.com/@GreatestToEverDoIt)  |  made the CPU scheduling guide.
