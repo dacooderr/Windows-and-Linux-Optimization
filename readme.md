@@ -34,6 +34,9 @@
   - [Bazzite](https://bazzite.gg/): Best for FPS and ease of use. Has built a strong reputation for being the most like windows without the bloat and with all the scheduling optimizations you'd expect from a gaming focused Linux Kernel.
   - [EndeavorOS](https://endeavouros.com/): A bit more complicated of an Arch based Kernel but after months of driving, I've come to prefer it for both gaming and everyday productivity.
 
+**CPU Scheduler Optimizations by simcasting
+  [Here](https://docs.google.com/document/d/10dqY3L9oH9F0n9wDi0r5P_OYhU3ZaczYwfUMAvC-WhU/edit?tab=t.0) you can find research on CPU scheduling for Linux Kernels done by Community Member: *simcasting*
+
 **UPDATING ON LINUX**      
 
     The 3 Kernels I listed above have install/update package scripts preinstalled and it is easily done by using said script and going through the Y/n prompts.
