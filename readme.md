@@ -48,13 +48,13 @@
   - Using LinuxNext's guide you can learn how to get stretch res to work on any game using steam proton launch environmental variables. [Tutorial Here](https://www.youtube.com/watch?v=kKF_6OHXwzg&)
   
 ## Linux Steam Launch Environmental Variables
-  - `gamemoderun` Makes the scheduler activate performance mode while gaming, this varaible should always come first. Depending on your Kernel, you may need to install this. Go [here](https://github.com/feralinteractive/gamemode)
+  - `gamemoderun` Makes the scheduler activate performance mode while gaming, this varaible should always come first. Depending on your Kernel, you may need to install this. Go [here](https://github.com/feralinteractive/gamemode).
   - `game-performance` Same as gamemoderun but increase I/O priority as well. Preinstalled on CachyOS.
   - `PROTON_USE_NTSYNC=1` Makes proton use alternative syncing method for smoother experiences on Windows based games. Can wield a nice performance boost on CPU intensive games.
-  - `PROTON_ENABLE_WAYLAND=1` Forces proton to run games under Wayland as a means to replace x11 and improve stability on Linux
+  - `PROTON_ENABLE_WAYLAND=1` Forces proton to run games under Wayland as a means to replace x11 and improve stability on Linux.
   - `ENABLE_LAYER_MESA_ANTI_LAG=1` Enables anti-lag
   - `PROTON_FSR4_RDNA3_UPGRADE=1` Enables FSR4 for RDNA3 GPUs
-  - `MANGOHUD=1` Adds performance metrics to check, must have it installed [here](https://github.com/flightlessmango/MangoHud)
+  - `MANGOHUD=1` Adds performance metrics to check, must have it installed [here](https://github.com/flightlessmango/MangoHud).
 
 
  # Credits 
