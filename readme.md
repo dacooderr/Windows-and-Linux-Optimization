@@ -20,7 +20,8 @@ ________________________________________________________________________________
 
 **<ins>Improve 1%/0.1% Lows and Input Latency</ins>**:
 
-• **__Process Lasso:__** Using this program, you can force apps to run in a specified priority, as well as adjust core affinity according to your system. [DOWNLOAD HERE](https://bitsum.com/).
+• **__Process Lasso:__** Using this program, you can force apps to run in a specified priority, as well as adjust core affinity according to your system. 
+[DOWNLOAD HERE](https://bitsum.com/)
 
   - You can use this [tutorial](https://www.youtube.com/watch?v=xXpnCqXxwz8&) for general use cases, but figuring out the core affinity optimization for your system is going to wield the best results (example: Intel Efficiency Cores)
 
