@@ -8,7 +8,9 @@
   - `-high` Tells windows to run your game in High Priority mode.
   - `-vulkan` Makes the game run under Vulkan rendering pipeline. (Using this with an AMD GPU, may wield much better FPS in most games.)
   - `-dx11` Makes the game run under DX11 rendering pipeline. (Using this with an Nvidia GPU, may wield much better FPS in most games.)
-Do not use both DX11 and Vulkan at the same time, these conflict. An example of your launch options could look like `-dx11 -high -threads 12` or `-vulkan -high -threads 12`
+
+Do not use both DX11 and Vulkan at the same time, these conflict.
+An example of your launch options could look like `-dx11 -high -threads 12` or `-vulkan -high -threads 12`
 
 **<ins>Improve 1%/0.1% Lows and Input Latency</ins>**:
 
