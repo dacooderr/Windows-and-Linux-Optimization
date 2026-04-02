@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 • **__RTSS (Rivatuner Statistics Server):__** Using this program, you can limit your FPS, 3 frames below your refresh rate and significantly improve your 1% lows. 
 
-  [DOWNLOAD HERE](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/).
+  [DOWNLOAD HERE](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/)
 
 **<ins>DEBLOAT</ins>**
 
