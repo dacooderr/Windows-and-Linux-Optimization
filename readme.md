@@ -20,20 +20,21 @@ ________________________________________________________________________________
 
 ## **<ins>Improve 1%/0.1% Lows and Input Latency</ins>**:
 
-• **__Process Lasso:__** Using this program, you can force apps to run in a specified priority, as well as adjust core affinity according to your system. [DOWNLOAD HERE](https://bitsum.com/)
+• **__Process Lasso:__** 
+  - Using this program, you can force apps to run in a specified priority, as well as adjust core affinity according to your system. [DOWNLOAD HERE](https://bitsum.com/)
   - You can use this [tutorial](https://www.youtube.com/watch?v=xXpnCqXxwz8&) for general use cases, but figuring out the core affinity optimization for your system is going to wield the best results. (example: Intel Efficiency Cores)
 
-• RTSS
+• **__RTSS__**
   - Using this program, you can limit your FPS, 3 frames below your refresh rate and significantly improve your 1% lows. 
-  [DOWNLOAD HERE](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/)
+  - [DOWNLOAD HERE](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/)
 
-**<ins>DEBLOAT</ins>**
+**__DEBLOAT__**
 
   - Using [Chris Titus' Windows Debloater](https://christitus.com/windows-tool/) you can customize and debloat windows to your liking by a click of a few buttons.
 
      - Open Windows Powershell in Administator and paste this in the console _irm christitus.com/win | iex_  and press enter. You can follow his tutorial [here](https://www.youtube.com/watch?v=yKydZFJRzMk&).
 
-### <ins>Calypto's In-depth Latency Guide</ins>
+**__Calypto's In-depth Latency Guide__**
   - If you have the time, this very long and in-depth guide explains the science behind Latency, and how to improve it [here](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?tab=t.0).
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
