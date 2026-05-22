@@ -18,15 +18,13 @@ It's also important to note, not every game supports Vulkan or DX12. So it may n
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-**<ins>Improve 1%/0.1% Lows and Input Latency</ins>**:
+## **<ins>Improve 1%/0.1% Lows and Input Latency</ins>**:
 
-• **__Process Lasso:__** Using this program, you can force apps to run in a specified priority, as well as adjust core affinity according to your system. 
-
-  [DOWNLOAD HERE](https://bitsum.com/)
-
+• **__Process Lasso:__** Using this program, you can force apps to run in a specified priority, as well as adjust core affinity according to your system. [DOWNLOAD HERE](https://bitsum.com/)
   - You can use this [tutorial](https://www.youtube.com/watch?v=xXpnCqXxwz8&) for general use cases, but figuring out the core affinity optimization for your system is going to wield the best results. (example: Intel Efficiency Cores)
-## RTSS
-• Using this program, you can limit your FPS, 3 frames below your refresh rate and significantly improve your 1% lows. 
+
+• RTSS
+  - Using this program, you can limit your FPS, 3 frames below your refresh rate and significantly improve your 1% lows. 
   [DOWNLOAD HERE](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/)
 
 **<ins>DEBLOAT</ins>**
