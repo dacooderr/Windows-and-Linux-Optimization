@@ -43,8 +43,8 @@ ________________________________________________________________________________
      - Open Windows Powershell in Administator and paste this in the console _irm christitus.com/win | iex_  and press enter. You can follow his tutorial [here](https://www.youtube.com/watch?v=yKydZFJRzMk&).
 
 ### **_ACTIVATE WINDOWS_**
-  - Using this exploit in Windows Powershell, you can get rid of that annoying **Activate Windows** watermark. Open up Windows Powershell and copy this script 
-    - **irm https://get.activated.win | iex** and paste it in the terminal. Select the options for your corresponding Windows operating system.
+  - Using this exploit in Windows Powershell, you can get rid of that annoying **Activate Windows** watermark. Open up Windows Powershell and copy the script.
+    - **irm https://get.activated.win | iex** | Copy and paste it in the terminal. Select the options for your corresponding Windows operating system.
 	
 	Credit for this script goes to the [Massgraves](https://github.com/massgravel/Microsoft-Activation-Scripts).
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
