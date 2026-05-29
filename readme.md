@@ -45,7 +45,8 @@ ________________________________________________________________________________
 ### **_ACTIVATE WINDOWS_**
   - Using this exploit in Windows Powershell, you can get rid of that annoying **Activate Windows** watermark. Open up Windows Powershell and copy the script.
     - **irm https://get.activated.win | iex** 
-    *Copy and paste it in the terminal. Select the options for your corresponding Windows operating system.*
+    
+	*Copy and paste it in the terminal. Select the options for your corresponding Windows operating system.*
 	
 	Credit for this script goes to the [Massgraves](https://github.com/massgravel/Microsoft-Activation-Scripts).
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
