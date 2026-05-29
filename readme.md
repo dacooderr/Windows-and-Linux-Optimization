@@ -1,8 +1,6 @@
 # A Windows and Linux PC Optimization Guide
 
 
-## WINDOWS
-
 ## Steam Launch Options
   - `-threads x` Adjust the amount of threads the game uses. Replace with your thread count -1 or try half your thread count (aka. Logical processor). You can open Task Manager and check your thread (logical processor) count there. 
   - `-high` Tells windows to run your game in High Priority mode.
@@ -18,6 +16,9 @@ It's also important to note, not every game supports Vulkan or DX12. So it may n
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+
+#Windows
+
 ## **<ins>Improve 1%/0.1% Lows and Input Latency</ins>**:
 
  **__Process Lasso:__** 
@@ -29,7 +30,7 @@ ________________________________________________________________________________
   - Using this program, you can limit your FPS, 3 frames below your refresh rate and significantly improve your 1% lows. 
   - [DOWNLOAD HERE](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/)
 
- **__DEBLOAT__**
+### **__DEBLOAT__**
 
   - Using [Chris Titus' Windows Debloater](https://christitus.com/windows-tool/) you can customize and debloat windows to your liking by a click of a few buttons.
 
